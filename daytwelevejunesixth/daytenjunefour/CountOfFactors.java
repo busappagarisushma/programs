@@ -1,0 +1,5 @@
+package daytenjunefour;
+
+class CountOfFactors {
+	
+}
